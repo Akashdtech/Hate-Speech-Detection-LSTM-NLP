@@ -1,0 +1,25 @@
+# General Colab files
+.ipynb_checkpoints/
+*.ipynb_*
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.parquet
+*.feather
+*.pickle
+
+# Model files
+*.h5
+*.pkl
+
+# Python environment
+venv/
+.env
+
+# Other
+__pycache__/
+*.pyc
+*.log
+.DS_Store
