@@ -34,7 +34,8 @@ Model Architecture:
         The model is compiled using the Adam optimizer and SparseCategoricalCrossentropy loss function.
         The model is trained for 5 epochs with a batch size of 32.
 
-    Model Evaluation:
+Model Evaluation:
+
         The model is evaluated on the test data, and the loss and accuracy are printed.
         Predictions are made using the trained model, and the accuracy score of the predictions is calculated.
 
